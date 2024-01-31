@@ -46,7 +46,9 @@ La función principal `main` incorpora un bucle para la generación de múltiple
 
 3. La modularidad y encapsulamiento facilitan la expansión y mantenimiento del código, contribuyendo a una implementación sostenible. 
 
-4. El diseño de la implementación proporciona una base sólida para análisis comparativos entre diferentes algoritmos de ordenamiento en futuras investigaciones. 
+4. El diseño de la implementación proporciona una base sólida para análisis comparativos entre diferentes algoritmos de ordenamiento en futuras investigaciones.
+ 
+5. el nivel de prcesamiento al ingresar 30 500000 peritio que se realizara en 6 horas asi que se determino que si seguiamos se extenderia demaciado a mas de una semana incluso.
 
 1. Ordenar con Insertion Sort
 
