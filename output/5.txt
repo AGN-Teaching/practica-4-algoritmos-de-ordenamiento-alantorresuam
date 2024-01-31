@@ -1,0 +1,1 @@
+ARREGLO 	 insertion_sort 	 selection_sort 	 bubble_sort 	 merge_sort 	 quick_sort
