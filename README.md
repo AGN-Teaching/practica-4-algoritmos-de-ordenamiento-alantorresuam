@@ -83,7 +83,7 @@ Evitar el uso de bubble sort para conjuntos de datos grandes, ya que su compleji
 Para conjuntos de datos grandes, preferir merge sort o quicksort, ya que demostraron ser los más rápidos en nuestras pruebas.
 
 **tabla** 
-
+    Tiempo            Desviación 
 <img width="452" alt="Captura de pantalla 2024-01-30 215350" src="https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-alantorresuam/assets/125683087/646e22f9-4a51-412b-bc29-e89e1ac6b002">
 
 
